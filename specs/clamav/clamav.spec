@@ -13,7 +13,7 @@
 
 Summary: Anti-virus software
 Name: clamav
-Version: 0.98.1
+Version: 0.98.6
 Release: 1%{?dist}
 License: GPL
 Group: Applications/System
